@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Cormorant Garamond', serif;
+  
+    
+}
+.navbar a:hover {
+    border-bottom: 2px black solid;
+}
+.button {
+    border:  line;
+    color: black;
+    width: 160.53px;
+    height: 47px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
+.button:hover{
+  background-color: #4a4c52 ;
+}
+                                   
+.banner1{
+ 
+    background-image: url(images/bannerpic3.jpeg);
+    height: 75vh;
+    background-size: cover;
+    background-position: center;
+}
+.banner2{
+  background-image: url(images/karachi.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.banner3{
+  background-image: url(images/pic6.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.banner4{
+  background-image: url(images/pic8.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.banner5{
+  background-image: url(images/pic5.jpg);
+  background-size: cover;
+  background-position: center;
+}
+                                   /* islamabad */
+
+.banner0{
+ 
+  background-image: url(images/islam.jpg);
+  height: 95vh;
+  background-size: cover;
+  background-position: center;
+}
+.banneri{
+background-image: url(images/islam2.jpg);
+background-size: cover;
+background-position: center;
+}
+.bannerS{
+background-image: url(images/islam3.jpg);
+background-size: cover;
+background-position: center;
+}
+.bannerA{
+background-image: url(images/islam4.jpg);
+background-size: cover;
+background-position: center;
+}
+.bannerL{
+background-image: url(images/islam5.jpg);
+background-size: cover;
+background-position: center;
+}
+                                      /* LAHORE */
+.bannerLa{
+ 
+  background-image: url(images/lahore.jpg);
+  height: 95vh;
+  background-size: cover;
+  background-position: center;
+}
+.bannerh{
+background-image: url(images/lahore1.jpg);
+background-size: cover;
+background-position: center;
+}
+.bannerO{
+background-image: url(images/lahore2.jpg);
+background-size: cover;
+background-position: center;
+}
+.bannerW{
+background-image: url(images/lahore3.jpg);
+background-size: cover;
+background-position: center;
+}
+.banner12{
+background-image: url(images/lahore4.jpg);
+background-size: cover;
+background-position: center;
+}
